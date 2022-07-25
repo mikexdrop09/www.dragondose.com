@@ -1,0 +1,85 @@
+
+@media (max-width:700px) {
+
+  /* NAVIGATION BAR */
+  .collapse {
+    position: absolute;
+    top: 57px;
+    left: 5%;
+    width: 90%;
+  }
+
+  .logo {
+    position: absolute;
+    top: 20px;
+    left: 1%
+  }
+
+  .nav-container {
+    position: absolute;
+    top: -20px;
+  }
+
+  .navbar-toggler {
+    position: absolute;
+    top: 16px;
+    right: 1%;
+  }
+
+  .title-head {
+    position: absolute;
+    font-size: 12px;
+    left: 10%;
+    top: 28px;
+  }
+
+  /* ABOUT US */
+  .aboutus {
+    position: relative;
+  }
+
+  .about-us-header {
+    font-size: 3rem;
+    color: black;
+    padding: 2% 5%;
+  }
+
+  .about-us-paragraph {
+    font-family: Montserrat, sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    color: black;
+  }
+
+  .about-us-container {
+    padding: 1%;
+    background: white;
+    border-radius: 0px;
+  }
+
+  .about-span {
+    color: #C2444F;
+  }
+
+  .dragon-strong {
+    color: #C2444F;
+  }
+
+  /* CAROUSEL */
+  .font-fam {
+    font-family: Merriweather, sans-serif;
+    font-size: 1rem;
+  }
+
+  #carouselExampleCaptions .caption-textcontent {
+    color: black;
+    z-index: 1;
+    padding-left: 3%;
+  }
+
+  /* PRODUCT */
+  #company-product{
+    line-height: 20px;
+    margin: 20px 20px;
+  }
+}
